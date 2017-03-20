@@ -5,13 +5,11 @@ GitBook allows you to organize your book into chapters, each chapter is stored i
 Cite Luhmann
 
 
-{{ "luhmann1979trust" | cite }}
+See examples like : {{ "luhmann1979trust" | cite }}
 
 ====
 
-{% references %} {% endreferences %}
-
 {{ "TLW" | cite }}
 
+{% references %} {% endreferences %}
 
-Why?

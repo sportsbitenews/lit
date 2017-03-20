@@ -2,7 +2,7 @@
 
 
 
-{{ "ROC" \| cite}}
+{{ "ROC" | cite}}
 
 
 

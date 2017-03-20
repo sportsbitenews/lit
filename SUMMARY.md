@@ -8,3 +8,5 @@
 
 ## Architecture
 
+* [New Part](new-part.md)
+

@@ -1,0 +1,62 @@
+# Related Concepts
+
+I have reviewed trust literature that fall under two different views and argued that the middle ground, embedded view, may be more informative. In doing so I could not have included a lot of interesting previous studies on trust without confusing the readers of the main point I was trying to make. Here I provide the addendum to that structure and go over studies that relate trust and other concepts on by one.
+
+## Trust and Distrust
+
+After all, Barber's book was titled The Logic and *Limits* of Trust {{"barber1983logic" | cite}}. Barber, as Luhmann, view trust as one essential source of social order and of orderly change, but he was clear in pointing it out that "trust is never enough for effective social control." In his view, additional social control mechanism such as  "rational distrust, law, informal and formal auditing arrangements, insurance against the malfeasance" can serve as the alternative or complement to trust.
+
+Luhman and Barber both viewed distrust not necessarily as a bad thing, but "a functional equivalent for trust." {{"luhmann1979trust" | cite}}. Barber further pointed out the "limits of trust" such as misuses of power and elitism {{"barber1983logic" | cite}}. Considering the time when Barber wrote the book was a period of time that public trust was in rapid decline after Vietnam War (See [Pew Research Center report on Trust in government: 1958-2015](http://www.people-press.org/2015/11/23/1-trust-in-government-1958-2015), the resolution he provided is that "instead of decrying the distruct in our society and cultivating a nostalgic fondness for some perhaps mythical past when all Americans lived in trust, we need to discover and continually rediscover how to foster trust and make it more effective.", and "paradoxically, this goal can be achieved in part by making its social control alternatives and complements more extensive and more effective". {{"barber1983logic" | cite}}
+
+## Trust and Psychological Safety
+
+A series of studies on team performance have introduced the concept, psychological safety -- "a shared belief held by members of a team that the team is safe for interpersonal risk taking" {{"edmondson1999psychological" | cite}}. Colloquially, this psychological safety is sometimes described as "I trust my team members". The difference between trust and psychological safety is clarified by {{"edmondson2002managing" | cite}}: First, psychological safety operates within a short-term interpersonal consequences, which is more like tactic, while trust is more like strategy in that it operates on a wider temporal range. Second, psychological safety focuses on "self" while trust focuses on "other". Third, the level of analysis for psychological safety is usually members of the team versus the trust focuses on the dyadic relationship of two people.
+
+## Trust and Familiarity
+
+Luhmann discussed the difference between familiarity and trust in one essay compiled in the book "Trust: Making and Breaking Cooperative Relations" by Diego Gambetta. Luhmann's view is that familiarity and trust are two complementary ways of absorbing complexity and are linked to one another. "Familiarity is an unavoidable fact of life; trust is a solution for specific problems of risk. But trust has to be achieved within a familiar world, and changes may occur in the familiar features of the world which will have an impact on the possibility of developing trust in human relations." {{"luhmann2000familiarity" | cite}}
+
+Empirically, to the best of my knowledge, there was only one study in organizational behavior by Ranjay Gulati, "Does Familiarity Breed Trust? the Implications of Repeated Ties for Contractual Choice in Alliances" {{"gulati1995does" | cite}}. Gulati used data from 1970 and 1989 in multiple industries on the type of alliances formed (equity-based or not) as a signal of trust, and the existence of previous alliances as indicator of familiarity.
+
+The relationship between familiarity and trust is not understood. We don't know if the increase in trust follows an "zero to one" model, where initial contact establish a large amount of trust; or it follows the "tipping point" model where repeated interaction or expose leads to trust once certain threshold is passed.
+
+## Trust and Homophily
+
+Homophily refers to "the principle that a contact between similar people occurs at a higher rate than among dissimilar people."  {{"mcpherson2001birds" | cite}} The similarity can be based genders, races, ethnicities, ages, class backgrounds, educational attainment, etc. Homophily "limits people’s social worlds in a way that has powerful implications for the information they receive, the attitudes they form, and the interactions they experience." {{"mcpherson2001birds" | cite}}
+
+Homophily pulls trust in two directions. On the positive side, it seems when there is little information, homophily can generate a certain degree of affinity and trust to those who are similar to oneself, which may be better than no trust at all. On the negative side, homophily implies discrimination between those who are similar and those who are dissimilar to oneself and may limit exchange to localized networks.
+
+[Recent evidence](https://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust?language=en) shows that reputation system can mitigate homophily and good reputation can help people extend trust to those who are not similar. This was also theoretically discussed by Eric M. Uslaner in his 2000 paper, *Producing and Consuming Trust* {{"uslaner2000producing" | cite}} on Political Science Quarterly. The bias of homophily is not unrelated to the [filter bubble](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=en) problem in recommended systems, that isolates the information one consumes to a local homogeneous network. 
+
+## Trust and Modernity
+
+"Do not trust a stranger." Some of us were brought up warned by parents this way. Interacting daily with strangers is a particularly modern phenomenon that came with the division of labour. In 1997, Adam B. Seligman published the book *The Problem of Trust* that highlighted the change in the definitions of trust that comes with modernity, and especially the division of labour {{"seligman1997problem" | cite}}. Similar to Luhmann and Barber, Seligman viewed trust as a function to maintain social order. What is particularity new Seligman's argument is that he pointed out "different forms of organizing society (on the macrosociological level) will bring in their wake different forms of establishing trust in society" {{"seligman1997problem" | cite}}. In other words, different social structure will require different kinds of trust. Seligman mentioned the "continuing debates between communitarians and liberals over the terms of citizenship", and "the seemingly irreparable chasm between normative and rational-choice theorists over their perspective visions of the social order" {{"seligman1997problem" | cite}}. This in our previous definition, was simply the over- and undersocialized view of trust. The problem of trust that Seligman referred to is the breakup of local, territorial, and primordial ties into the division of labour. "The promise then is an act of will that invites trust among strangers, that is, among those who share no ties of affinity, kinship, or even shared belief." {{"seligman1997problem" | cite}} This view is essentially the network view of trust that we advocated for earlier.
+
+Additional evidence for the change in social structure could be found in *Bowling Alone: The Collapse and Revival of American Community*  {{"putnam2000bowling" | cite}} by Robert Putnam, *Reflexive modernization: Politics, tradition and aesthetics in the modern social order* by Ulrich Beck, Anthony Giddens, and Scott Lash {{"beck1994reflexive" | cite}}, and *Networked: The New Social Operating System* by Barry Wellman and Lee Rainie {{"rainie2012networked" | cite}}. On a more micro level, the following works also provide insight to how trust adjusts to modernity: phenomenon of "civial inattention" by Evring Goffman described in the 1963 book *Behavior in Public Places: Notes on the Social Organization of Gatherings* {{"goffman1963behavior" | cite}}; Georg Simmel's construction of the stranger {{"simmel1950stranger" | cite}} as well as his analysis of *The Metropolis and Mental Life* {{"georg1995metropolis" | cite}}; the study of patron-client relations as a model of structuring social exchange {{"eisenstadt1980patron" | cite}} {{"eisenstadt1984patrons" | cite}} by Shmuel Noah Eisenstadt and Louis Roniger; and *The Death and Life of Great American Cities* {{"jacobs1961death" | cite}} by Jane Jacobs.
+
+## Trust and Communication
+
+Diego Gambetta is no doubt one of the very important scholars in trust, not only because he compiled the important book *Trust: Making and Breaking Cooperative Relations* {{"gambetta1988trust" | cite}} that contains some of the best theoretical framing of trust from multiple disciplines, but also because he integrated signaling theory into the analysis of trust and gave fascinating empirical descriptions of trust in closed communities including the Sicilian mafia {{"gambetta1996sicilian" | cite}} and New York taxi-drivers {{"gambetta2005streetwise" | cite}}. His work describes how trust can be threatened by "mimics" of signals of trustworthiness, and the general conditions under which signals can be relied upon.
+
+The work of social psychologist David DeSteno also provided insights on how signals are used to assess trustworthiness in lab experiments {{"desteno2014truth" | cite}}.
+
+## Trust and Culture
+
+Francis Fukuyama published the book *Trust: The social virtues and the creation of prosperity* {{"fukuyama1995trust" | cite}} that gave an account of how cultures can foster social and economic using examples from  China, Japan, other South-East Asian societies in contrast with America. Piotr Sztompka's book *Trust: A sociological theory* {{"sztompka1999trust" | cite}} gave a similar synthetic account of how trust as a cultural resource is necessary for the viable functioning of society, using examples from Eastern Europe.
+
+\subsection{Trust and Prosocial Behavior" | cite}}
+
+Prosocial behavior is defined as any behavior that is meant to help other people. If the motivation is to help others without any consideration to one's own benefits, then altruism may be one of the motivations for prosocial behavior {{"batson2003altruism" | cite}}. Depending on how cynical you are, it is possible that altrusim is sustained in the society as a whole because people generally abide by the rules of reciprocity {{"leider2009directed" | cite}}. Finally, cooperation can be achieved with or without trust {{"cook2005cooperation" | cite}}.
+
+Trust can be involved with any single one of these concepts and it is important to have the vocabulary of these concepts to refer to when we discuss trust, especially considering that trust may enact certain of these behaviors, such as cooperation, but it does not immediately that by the measuring of cooperation is equivalent of trust. Reciprocity and altruism are important concepts when we view trust in the exchange network context that can help understand the how trust forms in a network.
+
+## Trust and Power
+
+This is one of the most important related concepts for sociologists and political scientists. This may be reflected in the decision of Luhmann to put trust and power side by side in the same book {{"luhmann1979trust" | cite}}. The discussions of social control, law, sanction, assurance, social dilemmas {{"kollock1998social" | cite}} by Peter Kollock, power-dependence because of lack of alternatives {{"emerson1962power" | cite}} in the context of social exchange, all touch upon power.
+
+In my view, the focus on power is because its relationship to order. Russel Hardin discussed the relationship between power and order from a political governance point of view {{"hardin1997one" | cite}}. This is surprisingly compatible with definition in thermodynamics that an isolated system will evolve towards a state of maximum disorder, and power is needed to maintain the orderliness of the system.
+
+
+
+## References
+{% references %} {% endreferences %}

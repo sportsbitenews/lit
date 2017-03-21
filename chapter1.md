@@ -7,9 +7,6 @@ Cite Luhmann
 
 See examples like : {{ "luhmann1979trust" | cite }}
 
-====
-
-{{ "TLW" | cite }}
 
 {% references %} {% endreferences %}
 

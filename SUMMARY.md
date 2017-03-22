@@ -1,14 +1,10 @@
 # Summary
 
-## Hello
-* [Getting Started](getting-started/README.md)
-    * [Discussion](getting-started/discussion.md)
+## Meta
+* [Getting Started](README.md)
 
-## Overview
+## Sociological Tradition
 
-* [Introduction](README.md)
-    * [First Chapter](chapter1.md)
-    * [Network View](network-view.md)
 * [Part 1](part1/README.md)
     * [Introduction](part1/introduction.md)
     * [Two Views](part1/two-views.md)
@@ -19,4 +15,10 @@
 ## Architecture
 
 * [New Part](new-part.md)
+* [Introduction](README.md)
+    * [First Chapter](chapter1.md)
+    * [Network View](network-view.md)
+
+
+## HCI
 

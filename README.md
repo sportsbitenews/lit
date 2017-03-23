@@ -4,7 +4,7 @@
 
 You are reading Xiao's literature review hosted on [Gitbook](https://www.gitbook.com/about). The goal is to streamline the experience of writing; to make giving and taking feedback from committee members (and frankly, everyone) easier; and to avoid the following scenario at all costs.
 
-<img src = "../_static/img/phd101212s.gif" width="500px" alt="PhdComics">
+<img src="https://raw.githubusercontent.com/infoxiao/lit/master/_static/img/phd101212s.gif" width="500px" alt="PhdComics">
 
 Gitbook is essentially powered by the version control system Git. I manage all the source files in [markdown](https://en.wikipedia.org/wiki/Markdown) and each comment you make will be opened and tracked as an "issue" in a centralized dashboard for me.
 

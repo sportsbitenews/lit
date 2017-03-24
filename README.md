@@ -8,7 +8,7 @@ You are reading [Xiao Ma](http://maxiao.info/about)'s literature review for A-ex
 
 We want to avoid the following scenario at all cost:
 
-<img src = "../_static/img/phd101212s.gif" width="500px" alt="PhdComics">
+<img src="https://raw.githubusercontent.com/infoxiao/lit/master/_static/img/phd101212s.gif" width="500px" alt="PhdComics">
 
 I hope this setup can make it easier for you to give feedback and for me implementing the changes. Gitbook is powered by the [version control system](https://en.wikipedia.org/wiki/Version_control) Git. I manage all my writings as source files in [markdown](https://en.wikipedia.org/wiki/Markdown) format and every change is backed up through the history of this document.
 
@@ -30,5 +30,6 @@ I am wondering if you also find writing dissertation a daunting and lonely exper
 This literature review will survey the following concepts: trust in sociology, related concepts to trust such as psychological safety and collaboration, implications for HCI, architecture and behavior in urban public places, and how everything ties into virtual reality as a new medium.
 
 ## Disclaimer
+
 
 <b>This is part of my PhD dissertation work. All rights are reserved and in compliance with the [Code of Academic Integrity](http://cuinfo.cornell.edu/aic.cfm) at Cornell University.</b>

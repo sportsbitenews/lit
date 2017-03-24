@@ -3,22 +3,23 @@
 ## Meta
 * [Getting Started](README.md)
 
-## Sociological Tradition
+## Part 1
 
-* [Part 1](part1/README.md)
+* [Trust in Sociology](part1/README.md)
     * [Introduction](part1/introduction.md)
     * [Two Views](part1/two-views.md)
-    * [Related Concepts](part1/related-concepts.md)
-    * [Implications](part1/implications.md)
-    * [Conclusion](part1/conclusions.md)
+    * [Network View](part1/network-view.md)
 
-## Architecture
+* [Related Concepts](part1/related-concepts.md)
+* [Implications for HCI](part1/implications.md) 
+* [Conclusion](part1/conclusions.md)
 
-* [New Part](new-part.md)
-* [Introduction](README.md)
-    * [First Chapter](chapter1.md)
-    * [Network View](network-view.md)
+## Part 2
+* [Architecture](part2/README.md)
+    * [First Chapter](part2/chapter1.md)
+    * [New Part](part2/new-part.md)
 
+## Part 3
+* [Virtual Reality](part3/README.md)
 
-## HCI
 

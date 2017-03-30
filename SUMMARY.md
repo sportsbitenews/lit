@@ -15,11 +15,13 @@
 * [Conclusion](part1/conclusions.md)
 
 ## Part 2
-* [Architecture](part2/README.md)
-    * [First Chapter](part2/chapter1.md)
-    * [New Part](part2/new-part.md)
+* [Placemaking](part2/README.md)
+    * [Wlliam H. Whyte](part2/whyte.md)
+    * [Erving Goffman](part2/goffman.md)
+
 
 ## Part 3
 * [Virtual Reality](part3/README.md)
-
+    * [Self, Avatar and Agent](part3/self.md)
+    * [Empathy](part3/empathy.md)
 

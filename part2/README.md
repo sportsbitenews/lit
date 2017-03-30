@@ -1,56 +1,13 @@
-# Architecture
+# Placemaking
 
-Karen's piece: What buildings know [[what buildings know]]
+In this chapter, I'll review the work by Jane Jacobs, William H. Whyte, and Oscar Newman to unpack how space can influence the social life of street.
 
+---
 
-## Books
+Greenwich Village is an incredibly lively neighborhood in New York City. On a quite afternoon, one could find great pleasure in strolling the cobblestone streets lined with trees, quaint brownstones, and boutique shops with interesting window displays. After picking up a cupcake and/or a banana pudding at the Magnolia Bakery, one can head to the Washington Square Park, sit on a bench, and enjoy people watching till the sun sets. If you happen to be a music fan, Blue Note Jazz Club or (Le) Poisson Rouge may just be putting on a show that you would enjoy.
 
-Defensible architecture -- Oscar Newman (1972) [[defensible architecture]]
+The liveliness of street life is not by chance but through design that caters to people. In the 1960s, Jane Jacobs and William H. Whyte did ground-breaking work in "placemaking" -- cities should be designed with the social interactions of people taken into consideration, not just cars. Jacobs formulated the concept "natural surveillance", or commonly known as the "eyes on the street" {{"jacobs1961death" | cite}} that lead to the defensible space theory by Oscar Newman {{"newman1972defensible" | cite}}. Whyte did extensive research on the social life of streets and articulated elements that are important to the use of public spaces, such as seating and shades {{"whyte1988city" | cite}}.
 
-Crime prevention through environmental design (CPTED)
+## References
 
-Architecture of fear -- Nan Ellin
-
-City of Quartz -- Mike Davis (Fortress LA)
-
-Gutman, Robert.  1976.  “The Social Function of the Built Environment,” in The Mutual Interaction of People and their Built Environment: A Cross-Cultural Perspective (Rapoport, Amos, ed.).  Chicago: Mouton Publishers.
-
-Gottdeiner, Mark. The Social Production of Urban Space. Austin: University of Texas Press. 1985.
-
-Goffman, Erving.  1963.  Behavior in Public Places: Notes on the Social Organization of Gatherings.  New York: Free Press.
-
-Goffman, Erving.  1971.  Relations in Public: Microstudies of the Public Order.  New York: Basic Books.
-
-Whyte, William.  1988.  City: Rediscovering the Center.  New York: Doubleday.
-
-Whyte, William.  1980.  The Social Life of Small Urban Spaces.  Washington, DC: The Conservation Foundation.
-
-
-## Journals
-
-Gieryn, Thomas.  2000.  “A Space for Place in Sociology.”  Annual Review of Sociology 26: 463-96.
-Festinger, Leon.  1951.  “Architecture and Group Membership.”  Journal of Social Issues 7: 152-63.
-Lawrence, Denise.  1990.  “The Built Environment and Spatial Form.”  Annual Review of Anthropology 19: 453-95.
-Forlano, Laura.  2009.  “WiFi Geographies: When Code Meets Place.”  The Information Society 25(5): 344-52.
-
-
-The infrastructure designer’s trust in the people who are going to use it
-  - documents, specs, design process
-  - Interpersonal trust instead of 
-  - Include this in the profile? Design? I don’t know we think it’s a idea
-
-Infrastructure, doctor, zoc doc
-Infrastructure -- > how that facilitate (assumed, or default, baseline)
-Default -- craiglist, creepy
-Platform -- assume, substitute of lack of, create controls
-
-→ trust in information, fake information
-→ systems make online to offline transition of sharing (Certain type of trust)
-→ physical risks and safety, facebook marketplace -> ebay, design of social marketplaces
-
-Design exercise of linknyc as a marketplace?
-
-Make a plan
-Platforms -- > how typology infrastructure and marketplaces
-
-
+{% references %} {% endreferences %}

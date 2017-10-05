@@ -5,7 +5,7 @@ Bias is an inherent part of human nature. Homophily {{"mcpherson2001birds" | cit
 
 Before the existence of online exchange markets, researchers have observed bias in labor markets. In 2004, Lavergne and Mullainathan {{"lavergne2004emily" | cite}}.
 
-What pre-dates the online marketplaces for physical resources exchange, online knowledge and collaboration platforms, bias has been observed. Gender in open source community {{"vasilescu2012gender" | cite}}
+What pre-dates the online marketplaces for physical resources exchange, online knowledge and collaboration platforms, bias has been observed. Gender in open source community {{"vasilescu2012gender" | cite}}.
 
 The lack of visual cues of online marketplaces may even exacerbated the problem of bias. Following exactly the same field experiment setup, in 2015, Edelman et al., also at Havard Business School, conducted the experiment on Airbnb. It showed that ethnic discrimination persists in this prominent online marketplace for lodging {{"edelman2017racial" | cite}}. Evidence from other studies on freelance marketplaces (TaskRabbit, Friverr) {{"hannak2017bias" | cite}}. Self-representation, the host profiles {{"ma2017self" | cite}}. Creates polity issues {{"levy2017designing" | cite}}.
 

@@ -6,7 +6,7 @@ In this chapter, we aims to establish a solid theoretical foundation for the stu
 Major Sociological Paradigms
 ----------------------------
 
-A paradigm is a framework to formulate generalizations and theories based on shared assumptions. There are three major paradigms in sociology, structural functionalism, conflict theories, and symbolic interactionism {{"gerber2011sociology" | cite}. The first two paradigms are macro in terms of the level of analysis, and the last one micro. We will explain the macro and micro distinction later in the chapter. Each paradigm has its own set of assumptions and is best fit to answer different sets of questions as we show below.
+A paradigm is a framework to formulate generalizations and theories based on shared assumptions. There are three major paradigms in sociology, structural functionalism, conflict theories, and symbolic interactionism {{"gerber2011sociology" | cite}}. The first two paradigms are macro in terms of the level of analysis, and the last one micro. We will explain the macro and micro distinction later in the chapter. Each paradigm has its own set of assumptions and is best fit to answer different sets of questions as we show below.
 
 -	Structural Functionalism (Macro)
 

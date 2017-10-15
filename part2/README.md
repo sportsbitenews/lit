@@ -5,6 +5,8 @@ Luhmann, Niklas, Trust and power, two works by Niklas Luhmann, Chichester: John 
 
 Cook, Karen S and Emerson, Richard M, Power, equity and commitment in exchange networks, JSTOR, 1978.
 
+{{"mollering2001nature" | cite}}.
+
 References
 ----------
 

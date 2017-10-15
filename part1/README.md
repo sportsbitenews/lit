@@ -25,19 +25,29 @@ Social Exchange Theory
 
 Social exchange theory is a framework that views social change and stability as a process of negotiated exchanges between different parties. Social exchange theory shares the assumptions with rational choice theory and structural functionalism.
 
-Contemporary social exchange theory was first formulated by Richard M. Emerson by bridging two distinct views represented by George Homans and Peter Blau. In his 1976 paper *Social Exchange Theory* {{"emerson1976social" | cite}} on Annual Review of Sociology, Emerson analyzed and contrasted the psychological behavior focused approach to social exchange by Homans {{"homans1958social" | cite}} and the rational economic actor driven model by Blau {{"blau1964exchange" | cite}}. Emerson provided the middle ground and proposed to focus on social relations as units of analysis {{"emerson1976social" | cite}}. By doing so, Emerson considered social exchange theory "not a theory at all", but rather "a frame of reference within which many theories -- some micro and some more macro -- can speak to one another", which is very much in line of the embedded argument by that of Granovetter.
+Social exchange theory started developing with George Homans's work "Social Behavior as Exchange" {{"homans1958social" | cite}}, and further developed by Peter Blau {"blau1964exchange" | cite}} and Richard Emerson {{"emerson1976social" | cite}}. Homans's work emphasized individual behavior of actors in dyadic exchange. Blau's work on the other hand, focused on the economic and utilitarian perspective.
 
-Cook: {{"cook1992two" | cite}}
-
-{{"mollering2001nature" | cite}}.
+Emerson brought two perspectives together. In his 1976 paper *Social Exchange Theory* {{"emerson1976social" | cite}}, Emerson analyzed and contrasted the psychological behavior focused approach to social exchange by Homans and the rational economic actor driven model by Blau. Emerson focuses primarily on exchange relations, which are the "building blocks for more complex social structures called exchange networks or corporate groups (involving intragroup exchanges)." An actor can be a person, a corporate group (or collective actor), or a role-occupant {{"cook1992two" | cite}}.
 
 The Macro and Micro Distinction
 -------------------------------
 
+Different paradigms will be shown to be useful for different questions of online marketplaces as we will show in later chapter. For example, conflict theories are especially suitable for explaining biases in online marketplace (with regard to status, gender, and race).
+
+However there is an important gap between the paradigms that we need to bridge, namely, the macro and micro distinction of these paradigms. In 1992, Karen Cook and Joseph M. Whitmeyer published the paper, "Two Approaches to Social Structure: Exchange Theory and Network Analysis", which pointed out that "much convergence exists between exchange theory and network approaches to social structure." However, as we will show in the next chapter, the literature on trust is very divided in the macro and micro treatment to social structure. Just as Granovetter pointed out that the most approapriate approach to study economic action is through the embedded model, neither over- or under-socialized {{"granovetter1985economic" | cite}}, I argue the study of trust and online marketplaces should also follow the same embedded model, taking into considerations of network structure while using dyadic level empirical data for hypothesis testing (see the latest example of work on Facebook buy and sell groups {{"holtz2017social" | cite}}).
+
 Limitations
 -----------
 
-1.	Rational Assumption Social exchange theory assumes rational decision. Later work in psychology showed that people are "predictable irrational in their decision making" {{"kahneman2011thinking" | cite}} and {{"ariely2008predictably" | cite}}.
+We will show in the next chapters how social exchange theory is useful for organizing trust literature. However, social exchange theory does have several limitations.
+
+-	Rational assumption
+
+Social exchange theory assumes rational decision. Later work in psychology showed that people are predictably irrational in their decision making {{"kahneman2011thinking" | cite}} and {{"ariely2008predictably" | cite}}. My hypothesis is that such irrational decision making also exists in trust decisions and online marketplaces yet so far the studies on online marketplaces have all assumed rationality.
+
+-	Macro focus
+
+Social exchange theory has a macro focus that does not really merge with the network analysis methods. Bridging the macro and micro gap will be one contribution that my work aims to do.
 
 References
 ----------

@@ -1,13 +1,20 @@
 Definitions and measurement of trust in the context of social exchange
 ======================================================================
 
-Luhmann, Niklas, Trust and power, two works by Niklas Luhmann, Chichester: John Wiley, 1979. Yamagishi, Toshio and Cook, Karen S, Generalized exchange and social dilemmas, JSTOR, 1993 Barber, Bernard, The logic and limits of trust, 1983.
+In the last chapter, we reviewed three major sociological paradigms, some macro (takes a top down approach) and some micro (bottom up). The macro and micro distinction also carries into the definition and measurement of trust, as we will see below.
 
-Cook, Karen S and Emerson, Richard M, Power, equity and commitment in exchange networks, JSTOR, 1978.
+Trust is an incredibly broad term and loosely used in many contexts. Here we do not attempt to come up with one single definition of trust, but rather provide an overview and organization of different definitions and measurement of trust found in studies in many disciplines, including sociology, economics, organizational behavior, and psychology.
 
-{{"mollering2001nature" | cite}}.
+Trust can either be viewed as a macro, structural phenomenon, or a micro individual process with very specific targets (A trusts B to do X).
 
-References
-----------
+The macro view of trust originates from Luhmann in the late 1970s, who describes trust as "a mechanism for the reduction of social complexity" {{"luhmann1979trust" | cite}}. This follows the functional view of Parsons. Trust in this context is usually discussed very theoretically and philosophically, making it difficult to generate empirical evidence, especially before large scale data collection became a reality. Trust in this context is usually measured by the trust question in General Social Survey (GSS) or the World Values Survey (WVS), "Generally speaking, would you say that most people can be trusted or that you can't be too careful in dealing with people?" Whenever we read articles with titles like The Decline of Trust in the United States, chances are they are using data from GSS. This measure and its variations have been widely used particularly in political science. For example, questions like "How much of the time do you think you can trust the government in Washington to do what is right?" by Miller {{"miller1974political" | cite}}. However, these measures have also been criticized for having little predictive power when it comes to specific behaviors of individuals.
+
+The micro view of trust focuses on individual decisions and traits. This view is primarily found in economics and psychology. The strength of this view is its ability to gather empirical evidence through experiments with small groups of participants. For example, the "trust game" by Berger {{"berg1995trust" | cite}} is an investment game that uses the amount of investment to denote the level of trust in the participant's partner. The psychologists Rotter developed the Rotter Interpersonal Trust Scale (ITS) consisting 25 items, asking whether experts, parents, students, repairmen, salesmen and organizations could be trusted {{"rotter1967new" | cite}}. The outcome of this measure is considered as an individual trait similar to personality trait. But if one examines the items in ITS closely, some items are actually quite broad and bearing a lot of similarity with the GSS, such as "Most people can be counted on to do what they say they will do." It is unclear how much ITS can predict specific behavior. For example, perhaps item 23 on the scale, "Most repairmen will not overcharge, even if they think you are ignorant of their specialty", can predict the adoption of TaskRabbit, but it is hard for me to imagine if item 24, "A large share of accident claims filed against insurance companies are phony" is equally predictive.
+
+To summarize, there are many different ways to measure trust, such as general attitude question, investment game, scale with specifically designed items. With our increasing ability to collect data, such as outcome (e.g. whether a crowdfunding project is funded or not {{"mitra2014language" | cite}), new ways of measuring trust are being developed (e.g. using natural language processing and machine learning {{"ma2017self" | cite}}), bridging the gap between individual level behavior and view, with the macro system dynamics.
+
+<!-- Yamagishi, Toshio and Cook, Karen S, Generalized exchange and social dilemmas, JSTOR, 1993 Barber, Bernard, The logic and limits of trust, 1983\. Cook, Karen S and Emerson, Richard M, Power, equity and commitment in exchange networks, JSTOR, 1978\. {{"mollering2001nature" | cite}}. -->
+
+## References
 
 {% references %} {% endreferences %}
